@@ -1,3 +1,5 @@
+![example workflow](https://github.com/smythst/guessing_game_10k/blob/master/.github/workflows/rust.yml/badge.svg)
+
 # guessing_game_10k
 Guessing game tutorial solution from the MIT Rust course.
 
